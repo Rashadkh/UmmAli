@@ -1,0 +1,112 @@
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.exe
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\Main.css
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\slider.css
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Font\Courgette\Courgette-Regular.ttf
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Font\Courgette\OFL.txt
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Font\Kaushan_Script\KaushanScript-Regular.ttf
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Font\Kaushan_Script\OFL.txt
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Font\Lobster-Regular.ttf
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\call-now.svg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\delivery-box.svg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\facebook (1).svg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\hero.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\instagram (2).svg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\Logo.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\logoMazqiTofiq.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\photo_2021-08-13_23-23-00.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\SC-Rose-Slider-a.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\scallop-large.png
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\Screenshot 2021-08-12 075535.png
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\shipped.svg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\1666423.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\1666425.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\1666427.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\1666525.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\blog-measonry1.jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\download (1).jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\images (2).jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\images (3).jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\slider images\images (4).jpg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\whatsapp (1).svg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\img\WhatsApp Image 2021-08-13 at 11.11.44.jpeg
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.deps.json
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.runtimeconfig.json
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.pdb
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\NuGet.Frameworks.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.AttributedModel.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Convention.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Hosting.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Runtime.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.TypedParts.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.Views.dll
+C:\Users\Asus\source\repos\UmmAli\UmmAli\obj\Release\netcoreapp3.1\PubTmp\Out\UmmAli.Views.pdb
